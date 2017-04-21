@@ -1,6 +1,6 @@
 ### Co-occurrence-probability
 
-This repository aims at providing a high performing and flexible Co-occurrence/conditional  probability, by employing  Stanford open source Glove. In one word, you get one item's probability Co-occurrence/conditional automatically with the following example code:
+This repository aims at providing a high performing and flexible Co-occurrence/conditional  probability computing framework, by employing  Stanford open source Glove. In one word, you get one item's probability Co-occurrence/conditional automatically with the following example code:
 
 #### Install
 
